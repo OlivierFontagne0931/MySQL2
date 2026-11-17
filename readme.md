@@ -25,4 +25,4 @@
 - 17/11/2026:
   - Création de la branche exo-04
   - Commit de l'exo 04
-  - Rédaction du readme.md et dernier commit
+  - Rédaction du readme.md et dernier commit sur GitHub
